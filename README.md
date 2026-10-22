@@ -40,4 +40,5 @@ Estas condiciones se entienden sin perjuicio de las excepciones legales aplicabl
 
 Contact me:
 https://discord.com/invite/aXaJRZx9ZQ
+
 https://steamcommunity.com/id/ChokoGrimes
