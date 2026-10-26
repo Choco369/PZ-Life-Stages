@@ -1,5 +1,5 @@
 # PZ LIFE STAGES — TERMS AND CONDITIONS OF USE
-© 2026 chokk. All rights reserved regarding the original code and assets of my authorship included in PZ Life Stages. All rights to Project Zomboid and third-party components belong to their respective owners.
+© 2026 Choko. All rights reserved regarding the original code and assets of my authorship included in PZ Life Stages. All rights to Project Zomboid and third-party components belong to their respective owners.
 
 The code is published solely to allow review and security auditing. Its public availability does NOT turn this project into open-source software, public domain, or freely reusable content.
 
@@ -19,7 +19,7 @@ These conditions apply without prejudice to applicable legal exceptions and the 
 _______________________________________________________________
 
 # PZ LIFE STAGES — DERECHOS Y CONDICIONES DE USO
-© 2026 chokk. Derechos reservados sobre el código y los recursos originales de mi autoría incluidos en PZ Life Stages. Los derechos de Project Zomboid y de los componentes ajenos corresponden a sus respectivos titulares.
+© 2026 Choko. Derechos reservados sobre el código y los recursos originales de mi autoría incluidos en PZ Life Stages. Los derechos de Project Zomboid y de los componentes ajenos corresponden a sus respectivos titulares.
 
 El código se publica para permitir su consulta y auditoría de seguridad. Su disponibilidad pública NO convierte este proyecto en software de código abierto, dominio público ni contenido de libre reutilización. 
 
